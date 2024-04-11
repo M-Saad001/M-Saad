@@ -1,14 +1,14 @@
 {
   "name": "Phoenix-MD",
   "version": "1.0.0",
-  "description": "Phoenix-MD Simple WhatsApp Bot",
+  "description": "ᶬ᭄Ꮪ么么Ꭰメ Simple WhatsApp Bot",
   "logo": "https://i.imgur.com/T78fhJk.jpeg",
-  "keywords": ["whatsapp", "bot", "md", "multi-device", "Phoenix", "Phoenix-MD", "wabot", "termux-bot", "sc-bot"],
+  "keywords": ["whatsapp", "bot", "md", "multi-device", "ᶬ᭄Ꮪ么么Ꭰメ", "SAAD", "wabot", "termux-bot", "sc-bot"],
   "repository": "https://github.com/AbhishekSuresh2/Phoenix-MD",
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Enter Your Session ID",
+      "description": "Phoenix~eaec5763f7d97de351c7d9e6dcb574ea",
       "required": true
     },
     "HANDLERS": {
@@ -29,22 +29,22 @@
     "STICKER_DATA": {
       "description": "Enter Your Sticker PackName And Author Name",
       "required": false,
-      "value": "🎯𝙿𝚑𝚘𝚎𝚗𝚒𝚡-𝙼𝙳;𝙰𝚋𝚑𝚒𝚜𝚑𝚎𝚔 𝚂𝚞𝚛𝚎𝚜𝚑☘️"
+      "value": "🎯𝙿𝚑𝚘𝚎𝚗𝚒𝚡-𝙼𝙳;⸙𓆩«Ꮪ么么Ꭰ𔒝»ꜛ؜𓆪☘️"
     },
     "OWNER_NAME": {
       "description": "Enter Your Owner Name",
       "required": false,
-      "value": "Abhishek Suresh"
+      "value": "⸙𓆩«Ꮪ么么Ꭰ𔒝»ꜛ؜𓆪"
     },
     "OWNER_NUMBER": {
       "description": "Enter Your Owner Number",
       "required": false,
-      "value": "919074692450"
+      "value": "923418595810"
     },
     "BOT_NAME": {
       "description": "Enter Your Bot Name",
       "required": false,
-      "value": "Phoenix-MD"
+      "value": "⸙𓆩«Ꮪ么么Ꭰ𔒝»ꜛ؜𓆪"
     },
     "WORK_TYPE": {
       "description": "Enter Your Mode Type public For Public Otherwise Type private",
